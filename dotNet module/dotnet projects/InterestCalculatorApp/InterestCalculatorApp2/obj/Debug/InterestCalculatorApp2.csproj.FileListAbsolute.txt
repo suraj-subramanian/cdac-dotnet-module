@@ -1,0 +1,15 @@
+C:\Workspace\dotnet projects\InterestCalculatorApp\InterestCalculatorApp2\bin\Debug\InterestCalculatorApp2.exe.config
+C:\Workspace\dotnet projects\InterestCalculatorApp\InterestCalculatorApp2\bin\Debug\InterestCalculatorApp2.exe
+C:\Workspace\dotnet projects\InterestCalculatorApp\InterestCalculatorApp2\bin\Debug\InterestCalculatorApp2.pdb
+C:\Workspace\dotnet projects\InterestCalculatorApp\InterestCalculatorApp2\obj\Debug\InterestCalculatorApp2.csprojAssemblyReference.cache
+C:\Workspace\dotnet projects\InterestCalculatorApp\InterestCalculatorApp2\obj\Debug\MainWindow.g.cs
+C:\Workspace\dotnet projects\InterestCalculatorApp\InterestCalculatorApp2\obj\Debug\App.g.cs
+C:\Workspace\dotnet projects\InterestCalculatorApp\InterestCalculatorApp2\obj\Debug\InterestCalculatorApp2_MarkupCompile.cache
+C:\Workspace\dotnet projects\InterestCalculatorApp\InterestCalculatorApp2\obj\Debug\InterestCalculatorApp2_MarkupCompile.lref
+C:\Workspace\dotnet projects\InterestCalculatorApp\InterestCalculatorApp2\obj\Debug\MainWindow.baml
+C:\Workspace\dotnet projects\InterestCalculatorApp\InterestCalculatorApp2\obj\Debug\InterestCalculatorApp2.g.resources
+C:\Workspace\dotnet projects\InterestCalculatorApp\InterestCalculatorApp2\obj\Debug\InterestCalculatorApp2.Properties.Resources.resources
+C:\Workspace\dotnet projects\InterestCalculatorApp\InterestCalculatorApp2\obj\Debug\InterestCalculatorApp2.csproj.GenerateResource.cache
+C:\Workspace\dotnet projects\InterestCalculatorApp\InterestCalculatorApp2\obj\Debug\InterestCalculatorApp2.csproj.CoreCompileInputs.cache
+C:\Workspace\dotnet projects\InterestCalculatorApp\InterestCalculatorApp2\obj\Debug\InterestCalculatorApp2.exe
+C:\Workspace\dotnet projects\InterestCalculatorApp\InterestCalculatorApp2\obj\Debug\InterestCalculatorApp2.pdb

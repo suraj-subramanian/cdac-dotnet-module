@@ -1,0 +1,7 @@
+C:\Workspace\dotnet projects\Day5\ThreadExample\bin\Debug\ThreadExample.exe.config
+C:\Workspace\dotnet projects\Day5\ThreadExample\bin\Debug\ThreadExample.exe
+C:\Workspace\dotnet projects\Day5\ThreadExample\bin\Debug\ThreadExample.pdb
+C:\Workspace\dotnet projects\Day5\ThreadExample\obj\Debug\ThreadExample.csprojAssemblyReference.cache
+C:\Workspace\dotnet projects\Day5\ThreadExample\obj\Debug\ThreadExample.csproj.CoreCompileInputs.cache
+C:\Workspace\dotnet projects\Day5\ThreadExample\obj\Debug\ThreadExample.exe
+C:\Workspace\dotnet projects\Day5\ThreadExample\obj\Debug\ThreadExample.pdb

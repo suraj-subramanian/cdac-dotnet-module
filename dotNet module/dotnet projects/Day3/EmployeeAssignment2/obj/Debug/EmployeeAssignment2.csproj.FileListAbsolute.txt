@@ -1,0 +1,6 @@
+C:\Workspace\dotnet projects\Day3\EmployeeAssignment2\bin\Debug\EmployeeAssignment2.exe.config
+C:\Workspace\dotnet projects\Day3\EmployeeAssignment2\bin\Debug\EmployeeAssignment2.exe
+C:\Workspace\dotnet projects\Day3\EmployeeAssignment2\bin\Debug\EmployeeAssignment2.pdb
+C:\Workspace\dotnet projects\Day3\EmployeeAssignment2\obj\Debug\EmployeeAssignment2.csproj.CoreCompileInputs.cache
+C:\Workspace\dotnet projects\Day3\EmployeeAssignment2\obj\Debug\EmployeeAssignment2.exe
+C:\Workspace\dotnet projects\Day3\EmployeeAssignment2\obj\Debug\EmployeeAssignment2.pdb

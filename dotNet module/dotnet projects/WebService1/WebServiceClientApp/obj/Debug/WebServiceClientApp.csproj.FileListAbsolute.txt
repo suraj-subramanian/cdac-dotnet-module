@@ -1,0 +1,15 @@
+C:\Workspace\dotnet projects\WebService1\WebServiceClientApp\obj\Debug\WebServiceClientApp.csprojAssemblyReference.cache
+C:\Workspace\dotnet projects\WebService1\WebServiceClientApp\obj\Debug\MainWindow.g.cs
+C:\Workspace\dotnet projects\WebService1\WebServiceClientApp\obj\Debug\App.g.cs
+C:\Workspace\dotnet projects\WebService1\WebServiceClientApp\obj\Debug\WebServiceClientApp_MarkupCompile.cache
+C:\Workspace\dotnet projects\WebService1\WebServiceClientApp\obj\Debug\WebServiceClientApp_MarkupCompile.lref
+C:\Workspace\dotnet projects\WebService1\WebServiceClientApp\bin\Debug\WebServiceClientApp.exe.config
+C:\Workspace\dotnet projects\WebService1\WebServiceClientApp\bin\Debug\WebServiceClientApp.exe
+C:\Workspace\dotnet projects\WebService1\WebServiceClientApp\bin\Debug\WebServiceClientApp.pdb
+C:\Workspace\dotnet projects\WebService1\WebServiceClientApp\obj\Debug\MainWindow.baml
+C:\Workspace\dotnet projects\WebService1\WebServiceClientApp\obj\Debug\WebServiceClientApp.g.resources
+C:\Workspace\dotnet projects\WebService1\WebServiceClientApp\obj\Debug\WebServiceClientApp.Properties.Resources.resources
+C:\Workspace\dotnet projects\WebService1\WebServiceClientApp\obj\Debug\WebServiceClientApp.csproj.GenerateResource.cache
+C:\Workspace\dotnet projects\WebService1\WebServiceClientApp\obj\Debug\WebServiceClientApp.csproj.CoreCompileInputs.cache
+C:\Workspace\dotnet projects\WebService1\WebServiceClientApp\obj\Debug\WebServiceClientApp.exe
+C:\Workspace\dotnet projects\WebService1\WebServiceClientApp\obj\Debug\WebServiceClientApp.pdb

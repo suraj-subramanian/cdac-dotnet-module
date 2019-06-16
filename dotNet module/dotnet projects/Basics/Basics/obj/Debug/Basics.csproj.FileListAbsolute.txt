@@ -1,0 +1,7 @@
+C:\Workspace\dotnet projects\Basics\Basics\bin\Debug\Basics.exe.config
+C:\Workspace\dotnet projects\Basics\Basics\bin\Debug\Basics.exe
+C:\Workspace\dotnet projects\Basics\Basics\bin\Debug\Basics.pdb
+C:\Workspace\dotnet projects\Basics\Basics\obj\Debug\Basics.csprojAssemblyReference.cache
+C:\Workspace\dotnet projects\Basics\Basics\obj\Debug\Basics.csproj.CoreCompileInputs.cache
+C:\Workspace\dotnet projects\Basics\Basics\obj\Debug\Basics.exe
+C:\Workspace\dotnet projects\Basics\Basics\obj\Debug\Basics.pdb

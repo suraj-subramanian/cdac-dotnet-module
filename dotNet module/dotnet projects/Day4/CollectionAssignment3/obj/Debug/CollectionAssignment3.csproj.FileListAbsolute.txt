@@ -1,0 +1,7 @@
+C:\Workspace\dotnet projects\Day4\CollectionAssignment3\bin\Debug\CollectionAssignment3.exe.config
+C:\Workspace\dotnet projects\Day4\CollectionAssignment3\bin\Debug\CollectionAssignment3.exe
+C:\Workspace\dotnet projects\Day4\CollectionAssignment3\bin\Debug\CollectionAssignment3.pdb
+C:\Workspace\dotnet projects\Day4\CollectionAssignment3\obj\Debug\CollectionAssignment3.csprojAssemblyReference.cache
+C:\Workspace\dotnet projects\Day4\CollectionAssignment3\obj\Debug\CollectionAssignment3.csproj.CoreCompileInputs.cache
+C:\Workspace\dotnet projects\Day4\CollectionAssignment3\obj\Debug\CollectionAssignment3.exe
+C:\Workspace\dotnet projects\Day4\CollectionAssignment3\obj\Debug\CollectionAssignment3.pdb

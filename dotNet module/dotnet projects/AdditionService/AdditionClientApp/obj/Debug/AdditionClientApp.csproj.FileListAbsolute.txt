@@ -1,0 +1,15 @@
+C:\Workspace\dotnet projects\AdditionService\AdditionClientApp\bin\Debug\AdditionClientApp.exe.config
+C:\Workspace\dotnet projects\AdditionService\AdditionClientApp\bin\Debug\AdditionClientApp.exe
+C:\Workspace\dotnet projects\AdditionService\AdditionClientApp\bin\Debug\AdditionClientApp.pdb
+C:\Workspace\dotnet projects\AdditionService\AdditionClientApp\obj\Debug\AdditionClientApp.csprojAssemblyReference.cache
+C:\Workspace\dotnet projects\AdditionService\AdditionClientApp\obj\Debug\MainWindow.g.cs
+C:\Workspace\dotnet projects\AdditionService\AdditionClientApp\obj\Debug\App.g.cs
+C:\Workspace\dotnet projects\AdditionService\AdditionClientApp\obj\Debug\AdditionClientApp_MarkupCompile.cache
+C:\Workspace\dotnet projects\AdditionService\AdditionClientApp\obj\Debug\AdditionClientApp_MarkupCompile.lref
+C:\Workspace\dotnet projects\AdditionService\AdditionClientApp\obj\Debug\MainWindow.baml
+C:\Workspace\dotnet projects\AdditionService\AdditionClientApp\obj\Debug\AdditionClientApp.g.resources
+C:\Workspace\dotnet projects\AdditionService\AdditionClientApp\obj\Debug\AdditionClientApp.Properties.Resources.resources
+C:\Workspace\dotnet projects\AdditionService\AdditionClientApp\obj\Debug\AdditionClientApp.csproj.GenerateResource.cache
+C:\Workspace\dotnet projects\AdditionService\AdditionClientApp\obj\Debug\AdditionClientApp.csproj.CoreCompileInputs.cache
+C:\Workspace\dotnet projects\AdditionService\AdditionClientApp\obj\Debug\AdditionClientApp.exe
+C:\Workspace\dotnet projects\AdditionService\AdditionClientApp\obj\Debug\AdditionClientApp.pdb

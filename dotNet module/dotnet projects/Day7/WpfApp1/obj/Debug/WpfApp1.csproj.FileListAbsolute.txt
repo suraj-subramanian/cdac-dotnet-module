@@ -1,0 +1,17 @@
+C:\Workspace\dotnet projects\Day7\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Workspace\dotnet projects\Day7\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Workspace\dotnet projects\Day7\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Workspace\dotnet projects\Day7\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Workspace\dotnet projects\Day7\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Workspace\dotnet projects\Day7\WpfApp1\obj\Debug\App.g.cs
+C:\Workspace\dotnet projects\Day7\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Workspace\dotnet projects\Day7\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Workspace\dotnet projects\Day7\WpfApp1\obj\Debug\MainWindow.baml
+C:\Workspace\dotnet projects\Day7\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Workspace\dotnet projects\Day7\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Workspace\dotnet projects\Day7\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Workspace\dotnet projects\Day7\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Workspace\dotnet projects\Day7\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Workspace\dotnet projects\Day7\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Workspace\dotnet projects\Day7\WpfApp1\obj\Debug\Window1.g.cs
+C:\Workspace\dotnet projects\Day7\WpfApp1\obj\Debug\Window1.baml

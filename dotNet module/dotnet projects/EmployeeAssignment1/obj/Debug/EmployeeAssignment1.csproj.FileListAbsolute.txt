@@ -1,0 +1,7 @@
+C:\Workspace\dotnet projects\EmployeeAssignment1\bin\Debug\EmployeeAssignment1.exe.config
+C:\Workspace\dotnet projects\EmployeeAssignment1\bin\Debug\EmployeeAssignment1.exe
+C:\Workspace\dotnet projects\EmployeeAssignment1\bin\Debug\EmployeeAssignment1.pdb
+C:\Workspace\dotnet projects\EmployeeAssignment1\obj\Debug\EmployeeAssignment1.csproj.CoreCompileInputs.cache
+C:\Workspace\dotnet projects\EmployeeAssignment1\obj\Debug\EmployeeAssignment1.exe
+C:\Workspace\dotnet projects\EmployeeAssignment1\obj\Debug\EmployeeAssignment1.pdb
+C:\Workspace\dotnet projects\EmployeeAssignment1\obj\Debug\EmployeeAssignment1.csprojAssemblyReference.cache

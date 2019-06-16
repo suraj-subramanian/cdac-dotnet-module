@@ -1,0 +1,7 @@
+C:\Workspace\dotnet projects\Day4\EventHandlingDemo\bin\Debug\EventHandlingDemo.exe.config
+C:\Workspace\dotnet projects\Day4\EventHandlingDemo\bin\Debug\EventHandlingDemo.exe
+C:\Workspace\dotnet projects\Day4\EventHandlingDemo\bin\Debug\EventHandlingDemo.pdb
+C:\Workspace\dotnet projects\Day4\EventHandlingDemo\obj\Debug\EventHandlingDemo.csprojAssemblyReference.cache
+C:\Workspace\dotnet projects\Day4\EventHandlingDemo\obj\Debug\EventHandlingDemo.csproj.CoreCompileInputs.cache
+C:\Workspace\dotnet projects\Day4\EventHandlingDemo\obj\Debug\EventHandlingDemo.exe
+C:\Workspace\dotnet projects\Day4\EventHandlingDemo\obj\Debug\EventHandlingDemo.pdb

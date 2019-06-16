@@ -1,0 +1,25 @@
+﻿<Window x:Class="InterestCalculatorApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InterestCalculatorApp2"
+        mc:Ignorable="d"
+        Title="Interest Calculator" Height="450" Width="428" ResizeMode="NoResize">
+    <Grid RenderTransformOrigin="0.499,0.501">
+        <Label x:Name="lblAppTitle" Content="Interest Calculator" HorizontalAlignment="Left" Margin="135,10,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="18" FontFamily="Raavi"/>
+        <Label x:Name="lblPrincipal" Content="Principal (P)" HorizontalAlignment="Left" Margin="105,79,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtPrincipal" HorizontalAlignment="Left" Height="23" Margin="195,83,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="lblRate" Content="Rate (R)" HorizontalAlignment="Left" Margin="105,119,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtRate" HorizontalAlignment="Left" Height="23" Margin="195,123,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="lblTerm" Content="Term (N)" HorizontalAlignment="Left" Margin="105,159,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtTerm" HorizontalAlignment="Left" Height="23" Margin="195,163,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <GroupBox x:Name="groupBox" Header="Type of Interest" HorizontalAlignment="Left" Height="60" Margin="105,215,0,0" VerticalAlignment="Top" Width="210">
+            <RadioButton x:Name="radioSimple" Content="Simple" HorizontalAlignment="Left" Height="30" Margin="10,10,0,-2" VerticalAlignment="Top" RenderTransformOrigin="0.518,0.54" IsChecked="True" GroupName="interestType"/>
+        </GroupBox>
+        <RadioButton x:Name="radioCompound" Content="Compound" HorizontalAlignment="Left" Margin="220,240,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.294,0.667" Height="35" GroupName="interestType"/>
+        <Label x:Name="lblAmount" Content="Amount :" HorizontalAlignment="Left" Margin="105,309,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.526,0.577" Width="210" FontWeight="Bold"/>
+        <Button x:Name="btnCalculate" Content="Calculate" HorizontalAlignment="Left" Margin="105,355,0,0" VerticalAlignment="Top" Width="210" Height="30" Click="BtnCalculate_Click"/>
+
+    </Grid>
+</Window>

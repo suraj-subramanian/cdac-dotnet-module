@@ -1,0 +1,22 @@
+﻿<Window x:Class="WpfApp1.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="txtFirstNumber" HorizontalAlignment="Left" Height="30" Margin="312,79,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="97" KeyDown="TxtFirstNumber_KeyDown"/>
+        <Label x:Name="lblFirstNumber" Content="First Number" HorizontalAlignment="Left" Height="30" Margin="195,79,0,0" VerticalAlignment="Top" Width="102"/>
+        <TextBox x:Name="txtSecondNumber" HorizontalAlignment="Left" Height="30" Margin="312,119,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="97"/>
+        <Label x:Name="lblSecondNumber" Content="Second Number" HorizontalAlignment="Left" Height="30" Margin="195,119,0,0" VerticalAlignment="Top" Width="102"/>
+        <TextBox x:Name="txtSum" HorizontalAlignment="Left" Height="30" Margin="312,179,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="97"/>
+        <Label x:Name="lblSum" Content="Label" HorizontalAlignment="Left" Height="30" Margin="195,179,0,0" VerticalAlignment="Top" Width="74"/>
+        <Button x:Name="btnSum" Content="Sum" HorizontalAlignment="Left" Margin="312,238,0,0" VerticalAlignment="Top" Width="75"/>
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="226" Margin="506,79,0,0" VerticalAlignment="Top" Width="100" Cursor="Hand">
+            <ListBoxItem Content="Item1"/>
+        </ListBox>
+
+    </Grid>
+</Window>

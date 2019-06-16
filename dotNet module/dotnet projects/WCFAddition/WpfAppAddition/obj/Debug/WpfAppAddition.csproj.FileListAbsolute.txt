@@ -1,0 +1,15 @@
+C:\Workspace\dotnet projects\WCFAddition\WpfAppAddition\bin\Debug\WpfAppAddition.exe.config
+C:\Workspace\dotnet projects\WCFAddition\WpfAppAddition\bin\Debug\WpfAppAddition.exe
+C:\Workspace\dotnet projects\WCFAddition\WpfAppAddition\bin\Debug\WpfAppAddition.pdb
+C:\Workspace\dotnet projects\WCFAddition\WpfAppAddition\obj\Debug\WpfAppAddition.csprojAssemblyReference.cache
+C:\Workspace\dotnet projects\WCFAddition\WpfAppAddition\obj\Debug\MainWindow.g.cs
+C:\Workspace\dotnet projects\WCFAddition\WpfAppAddition\obj\Debug\App.g.cs
+C:\Workspace\dotnet projects\WCFAddition\WpfAppAddition\obj\Debug\WpfAppAddition_MarkupCompile.cache
+C:\Workspace\dotnet projects\WCFAddition\WpfAppAddition\obj\Debug\WpfAppAddition_MarkupCompile.lref
+C:\Workspace\dotnet projects\WCFAddition\WpfAppAddition\obj\Debug\MainWindow.baml
+C:\Workspace\dotnet projects\WCFAddition\WpfAppAddition\obj\Debug\WpfAppAddition.g.resources
+C:\Workspace\dotnet projects\WCFAddition\WpfAppAddition\obj\Debug\WpfAppAddition.Properties.Resources.resources
+C:\Workspace\dotnet projects\WCFAddition\WpfAppAddition\obj\Debug\WpfAppAddition.csproj.GenerateResource.cache
+C:\Workspace\dotnet projects\WCFAddition\WpfAppAddition\obj\Debug\WpfAppAddition.csproj.CoreCompileInputs.cache
+C:\Workspace\dotnet projects\WCFAddition\WpfAppAddition\obj\Debug\WpfAppAddition.exe
+C:\Workspace\dotnet projects\WCFAddition\WpfAppAddition\obj\Debug\WpfAppAddition.pdb

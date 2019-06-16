@@ -1,0 +1,7 @@
+C:\Workspace\dotnet projects\Day6\TasksExample\bin\Debug\TasksExample.exe.config
+C:\Workspace\dotnet projects\Day6\TasksExample\bin\Debug\TasksExample.exe
+C:\Workspace\dotnet projects\Day6\TasksExample\bin\Debug\TasksExample.pdb
+C:\Workspace\dotnet projects\Day6\TasksExample\obj\Debug\TasksExample.csprojAssemblyReference.cache
+C:\Workspace\dotnet projects\Day6\TasksExample\obj\Debug\TasksExample.csproj.CoreCompileInputs.cache
+C:\Workspace\dotnet projects\Day6\TasksExample\obj\Debug\TasksExample.exe
+C:\Workspace\dotnet projects\Day6\TasksExample\obj\Debug\TasksExample.pdb
